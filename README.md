@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/mastering-adobe-photoshop-elements/9781789808155"><img src="https://static.packt-cdn.com/products/9781789808155/cover/smaller" alt="Mastering Adobe Photoshop Elements 2021" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Adobe Photoshop Elements 2021](https://www.packtpub.com/product/mastering-adobe-photoshop-elements/9781789808155), published by Packt.
+This is the color images repository for [Mastering Adobe Photoshop Elements 2021](https://www.packtpub.com/product/mastering-adobe-photoshop-elements/9781789808155), published by Packt.
 
 **Boost your image-editing skills using the latest tools and techniques in Adobe Photoshop Elements**
 
