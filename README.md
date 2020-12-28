@@ -34,7 +34,7 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1 to 11      | Adobe Photoshop Elements 2021                     | Windows, Mac OS X, and Linux (Any) |
 
-You can also download the color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800566996_ColorImages.zip).
+You can also download the color images of the screenshots/diagrams using this link: [Click here to download it](https://static.packt-cdn.com/downloads/9781800566996_ColorImages.zip).
 
 ### Related products <Other books you may enjoy>
 * Mastering Adobe Captivate 2019 - Fifth Edition [[Packt]](https://www.packtpub.com/product/mastering-adobe-captivate-2019-fifth-edition/9781789803051) [[Amazon]](https://www.amazon.com/dp/1789803055)
