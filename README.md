@@ -48,3 +48,7 @@ Born in the UK, has always had a great love for recording the world with a camer
 ## Other books by the authors
 * [Mastering Adobe Photoshop Elements 2020 - Second Edition](https://www.packtpub.com/product/mastering-adobe-photoshop-elements-2020-second-edition/9781800204201)
 * [Mastering Adobe Photoshop Elements](https://www.packtpub.com/product/mastering-adobe-photoshop-elements/9781789808155)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800566996">https://packt.link/free-ebook/9781800566996 </a> </p>
